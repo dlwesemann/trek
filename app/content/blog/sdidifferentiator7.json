@@ -1,0 +1,6 @@
+{
+  "publishedAt": "1st Dec 2021",
+  "title": "Differentiator: Popultation and Patient Cohort Generator and Filter",
+  "content": "The cohort or population builder is a key area of functionality in the COA application that will allow physicians, provider managers and other department or health system managers to create and define patient populations against which the analysis of different value-based analytics would occur. This functionality will allow users who don’t have traditional analyst expertise in writing complex queries to access and define patient populations through an intuitive user interface.",
+  "featuredImage": "/images/uploads/sdidifferentiator7.png"
+}

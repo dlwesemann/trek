@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "SDI Analytics",
+  "shortName": "SDI",
+  "description": "SDI Analytics is dedicated to transparency in medicine driving improved outcomes and cost",
+  "themeColor": "#C6AD0C",
   "backgroundColor": "#ffffff",
   "lang": "en"
 }
