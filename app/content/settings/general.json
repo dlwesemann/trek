@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| SDI",
-  "welcomeText": "# SDI Analytics\n\nWe are dedicated to transparency in medicine driving improved outcomes and cost.\n\n\n\n\n\nVisit our Updates page above for current information on our development status.\n\n\n\n\n\nIf you are interested in learning more, please enter your email address below:",
+  "titleTemplate": "| Trek",
+  "welcomeText": "# Bountiful Heights Stake Trek\n\nDescription line one.\n\n\n\n\n\nDescription line two.\n\n\n\n\n\nDescription line three:",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#C6AD0C",
-  "seoDescription": "SDI Analytics",
+  "loadingColor": "#75603c",
+  "seoDescription": "Heights Stake Trek",
   "seoMetaImage": ""
 }
