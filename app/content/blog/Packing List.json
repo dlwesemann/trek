@@ -1,6 +1,6 @@
 {
   "publishedAt": "1st Dec 2021",
-  "title": "Differentiator: Real Time Cloud Access and Distribution",
-  "content": "Could delivery of data analytics solutions in healthcare is scarce. The reason for this is primarily due to a fear that cloud services expose security risk and invoke privacy concerns. The COA product is architected with unique attributes to specifically address the risk and concerns prevalent in healthcare. The key to the COA cloud architecture lies in a separation of the HIPAA information that would only be presented on premise vs. that which would be viewable via the cloud. The COA architecture maintains all sensitive patient-level data behind the hospital’s firewall inside their own local, secured network, while only summary and de-identified data is synchronized with the cloud. ",
+  "title": "Packing List",
+  "content": "TBD",
   "featuredImage": "/images/uploads/Packing List.png"
 }
