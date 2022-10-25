@@ -1,7 +1,7 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
     <div class="container mx-auto pb-6 flex justify-center">
-      <a href="https://sdianalytics.netlify.app">
+      <a href="https://heightstrek.netlify.app">
         <svg
           baseProfile="tiny"
           height="32px"
@@ -37,6 +37,6 @@ export default class Footer extends Vue {}
 
 <style lang="scss">
 .footer {
-  background-color: #C6AD0C;
+  background-color: #75603c;
 }
 </style>
