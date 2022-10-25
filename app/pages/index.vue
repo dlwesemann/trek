@@ -21,7 +21,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="/images/uploads/Logos-Gold-transparent.png"
+          src="/images/uploads/trekhomeimage.jpg"
         />
       </div>
     </div>
