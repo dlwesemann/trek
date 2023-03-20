@@ -60,7 +60,8 @@ export default class Pagination extends Vue {
 
   get paginationMax(): number {
     const max = this.totalPages < this.max ? this.totalPages : this.max;
-    return max - 1;
+    //return max - 1;
+    return 7;
   }
 }
 </script>
